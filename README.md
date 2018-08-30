@@ -1,0 +1,1 @@
+# Avazu-bid-response-sample
