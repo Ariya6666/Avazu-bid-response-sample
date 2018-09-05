@@ -1,0 +1,32 @@
+{
+    "id": "ca0463e4-0c19-42c4-99e9-534713c6ee84",
+    "bidid": "66334967785180075",
+    "cur": "USD",
+    "seatbid": [
+        {
+            "seat": "",
+            "bid": [
+                {
+                    "id": "c1816ba0-d005-4d19-a11e-49147712e5b1",
+                    "impid": "c1816ba0-d005-4d19-a11e-49147712e5b1",
+                    "crid": "287495",
+                    "price": 2.000000,
+                    "adid": "37342_287495",
+                    "adomain": [
+                        "blossomkitchenware.com"
+                    ],
+                    "iurl": "http://cdn.aztracks.net/noneimagezip/201507/029/94c74b693c762295b3b2fd7ccfe8c090.mp4",
+                    "adm": "<VAST version=\"2.0\"><Ad id=\"1\"><InLine><AdSystem>2.0</AdSystem><AdTitle></AdTitle><Impression><![CDATA[http://sandbox2-mdsp.avazutracking.net/tracking/impression?bid_id=66334967785180075&ids=WMjQ1NH4zNzM0Mn4yODc0OTV-MTI0Mn4zMTMwMjd-MX4xfjF-MH5SVX5pb3N-MTgxOX5hcHBsZX4xMS4yfjMxMzAyN343NjM1fnNofjMyNDQxNn5TYWZhcml-MH4wfjB-MH4wfjB-fnVua25vd25-MH41fnVua25vd25-Mn54ODZfNjQ&bid_time=1536112480&chk=961de94a28bbcab054dc1287274013bf&ext=]]></Impression><Creatives><Creative><Linear><Duration>00:00:22</Duration><VideoClicks><ClickThrough><![CDATA[http://sandbox2-mdsp.avazutracking.net/tracking/redirect.php?bid_id=66334967785180075&ids=WMjQ1NH4zNzM0Mn4yODc0OTV-MTI0Mn4zMTMwMjd-MX4xfjF-MH5SVX5pb3N-MTgxOX5hcHBsZX4xMS4yfjMxMzAyN343NjM1fnNofjMyNDQxNn5TYWZhcml-MH4wfjB-MH4wfjB-fnVua25vd25-MH41fnVua25vd25-Mn54ODZfNjQ&bid_time=1536112480&chk=961de94a28bbcab054dc1287274013bf&ext=&_m=%07bundle_id%06]]></ClickThrough></VideoClicks><MediaFiles><MediaFile height=\"320\" width=\"480\" type=\"video/mp4\" bitrate=\"563\" delivery=\"progressive\"><![CDATA[http://cdn.aztracks.net/noneimagezip/201507/029/94c74b693c762295b3b2fd7ccfe8c090.mp4]]></MediaFile></MediaFiles></Linear></Creative></Creatives></InLine></Ad></VAST>",
+                    "nurl": "http://sandbox2-mdsp.avazutracking.net/price/appodeal?rqid=${AUCTION_ID}&price=${AUCTION_PRICE}&bidid=66334967785180075&accid=2454&adid=37342_287495&uid=CCBD556A-14A7-4E26-A52C-652355D4BA5A&impid=c1816ba0-d005-4d19-a11e-49147712e5b1&afcap=dCCBD556A-14A7-4E26-A52C-652355D4BA5A&cfcap=&si=7635&inv=1242&ex_rate=1.000000&pubid=1819&bidtype=0&cpcprc=3000&ctr=&cctr=&final_ctr=&bidprc=2000&sctype=0&invtag=&traffictype=0&bidtime=1536112480&domain=unknown&iswebsite=2&chk=a4d213b230e60e2e71d4cc9fdc7e2a54",
+                    "attr": [
+                        
+                    ],
+                    "cat": [
+                        "iab1-1"
+                    ],
+                    "cid": "37342"
+                }
+            ]
+        }
+    ]
+}
